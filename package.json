@@ -1,0 +1,19 @@
+{
+  "name": "react_tth_tutorial",
+  "version": "1.0.0",
+  "description": "The Team Treehouse React Basics Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonmitten/react_tth_tutorial.git"
+  },
+  "author": "Jon Mitten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonmitten/react_tth_tutorial/issues"
+  },
+  "homepage": "https://github.com/jonmitten/react_tth_tutorial#readme"
+}
